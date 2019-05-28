@@ -1,4 +1,4 @@
-thiisthemark
+activegraph
 @startuml
   
 [*] --> State1;
@@ -10,7 +10,7 @@ State1 -> State2;
 State2 --> [*];
   
 @enduml
-thiisthemark
+activegraph
 
 thiisthemarks
 @startuml
